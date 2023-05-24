@@ -11,8 +11,6 @@
 <a href="https://www.topcoder.com/members/theros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="theros" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=therosin&show_icons=true&locale=en&layout=compact" alt="therosin" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=therosin&show_icons=true&locale=en" alt="therosin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=therosin&" alt="therosin" /></p>
