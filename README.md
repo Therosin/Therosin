@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Theros</h1>
 <h3 align="center">Passionate developer and CS Student from GB</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=therosin&label=Profile%20views&color=0e75b6&style=flat" alt="therosin" /> </p>
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=therosin&label=Profile%20views&color=0e75b6&style=flat" alt="therosin" />
+    <img src="https://badge.stateful.com/Therosin/status.svg" />
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
