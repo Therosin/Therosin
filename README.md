@@ -5,14 +5,6 @@
     <img src="https://komarev.com/ghpvc/?username=therosin&label=Profile%20views&color=0e75b6&style=flat" alt="therosin" />
     <img src="https://badge.stateful.com/Therosin/status.svg" />
 </div>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/therosin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="therosin" height="30" width="40" /></a>
-<a href="https://codesandbox.com/theros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="theros" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/therosin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="therosin" height="30" width="40" /></a>
-</p>
-
 </hr>
 </br>
 
